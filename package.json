@@ -1,0 +1,16 @@
+{
+  "name": "test-late",
+  "version": "1.0.0",
+  "description": "Use for testing speclate and sizlate tests in the client",
+  "main": "test-server.js",
+  "scripts": {
+    "start": "node test-server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify-middleware": "^7.0.0",
+    "express": "^4.14.0"
+  }
+}
